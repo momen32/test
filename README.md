@@ -7,4 +7,4 @@ I know I'm bad <br>
 I try <br>
 plesae dont judge me <br>
 im bad <br>
-<e><b>I know.</e></b> <br>
+<b>I know.</b> <br>
